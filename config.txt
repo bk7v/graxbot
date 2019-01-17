@@ -1,0 +1,6 @@
+token=NTM1NTgwODQxMzgwOTM3NzI5.DyKOEQ.zyNn3ZpXDIfohzeVBofA-VXM7i0
+owner=446243110025166858
+prefix=$
+game=$help Grax
+stayinchannel=true
+songinstatus=true
